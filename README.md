@@ -186,9 +186,5 @@ MIT License. Free for use.
 
 ---
 
-Let me know if you'd like to:
 
-* Add screenshots or badges
-* Include `curl` API samples (if you open API endpoints)
-* Create a PDF/Word version of this document
 
