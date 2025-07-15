@@ -66,6 +66,25 @@ StockApp/
 
 ---
 
+## 📸 Screenshots
+
+### 🔍 Explore Stocks Page
+![Explore Stocks](screenshots/explore-page.png)
+
+### 📈 Stock Quote + Trade
+![Trade Screen](screenshots/quote-trade.png)
+
+### 🏢 Company Profile View
+![Company Profile](screenshots/profile-display.png)
+
+### 📋 Orders List
+![Order History](screenshots/orders-list.png)
+
+### 📄 PDF Export (Orders)
+![PDF Export](screenshots/pdf-report.png)
+
+---
+
 ## ⚙️ Configuration Setup
 
 ### 1. `appsettings.json`
