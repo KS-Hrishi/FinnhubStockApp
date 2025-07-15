@@ -69,19 +69,19 @@ StockApp/
 ## 📸 Screenshots
 
 ### 🔍 Explore Stocks Page
-![Explore Stocks](screenshots/explore-page.png)
+![Explore Stocks](Screenshots/explore-page.png)
 
 ### 📈 Stock Quote + Trade
-![Trade Screen](screenshots/quote-trade.png)
+![Trade Screen](Screenshots/quote-trade.png)
 
 ### 🏢 Company Profile View
-![Company Profile](screenshots/profile-display.png)
+![Company Profile](Screenshots/profile-display.png)
 
 ### 📋 Orders List
-![Order History](screenshots/orders-list.png)
+![Order History](Screenshots/orders-list.png)
 
 ### 📄 PDF Export (Orders)
-![PDF Export](screenshots/pdf-report.png)
+![PDF Export](Screenshots/pdf-report.png)
 
 ---
 
